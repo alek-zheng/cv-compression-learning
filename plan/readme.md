@@ -24,6 +24,8 @@ CV编码方向深度学习工程师4个月成长计划
 了解图像基础但不懂深度学习 → 从第0阶段第2部分开始  
 懂深度学习但不懂编码 → 从第1阶段开始
 
+--------------------------------------------------------------------------------
+
 第0阶段：基础补全（第1-2周）
 如果是完全初学者，这两周非常关键，不能跳过
 
@@ -84,13 +86,17 @@ PyTorch基础：
 
 学习资料
 首选课程：
-- 李沐《动手学深度学习》（d2l.ai）
+- 李沐《动手学深度学习》（[d2l.ai](https://zh.d2l.ai/index.html)）
   重点章节：第3章线性网络、第5章深度学习计算、第6章卷积神经网络
   这本书配套有视频，B站搜索"李沐动手学深度学习"
 ​
 PyTorch官方：
 - PyTorch官网 60分钟入门教程（pytorch.org/tutorials）
-  按顺序完成：Tensor Tutorial → Autograd → Neural Networks → Training a Classifier
+  按顺序完成：
+  Tensor Tutorial(https://docs.pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html)
+  → Autograd(https://docs.pytorch.org/tutorials/beginner/former_torchies/autograd_tutorial_old.html#autograd)
+  → Neural Networks(https://docs.pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html#neural-networks)
+  → Training a Classifier(https://docs.pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#training-a-classifier)
 ​
 补充：
 - 3Blue1Brown YouTube神经网络系列（4个视频，非常直观）
