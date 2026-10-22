@@ -100,7 +100,7 @@ PyTorch官方：
 ​
 补充：
 - 3Blue1Brown YouTube神经网络系列（4个视频，非常直观）
-  
+- 训练经验 https://karpathy.github.io/2019/04/25/recipe/  
 本周实践任务
 任务：在CIFAR-10数据集上
   - 实现一个简单CNN分类器（3-5层）
